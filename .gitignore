@@ -1,0 +1,5 @@
+# Python Virtual Environment
+.venv/
+
+# Flight Dataset folder
+flight_fare_dataset
