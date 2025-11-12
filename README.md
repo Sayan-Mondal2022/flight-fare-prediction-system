@@ -74,6 +74,32 @@ This project was developed as a **learning exercise** to explore how machine lea
 
 5. Interact with the UI and input flight details. The model will output a predicted fare.
 
+## 🎥 Demo
+
+<img width="1098" height="744" alt="image" src="https://github.com/user-attachments/assets/79479522-21fa-45f5-aa9c-30f94c4b9cca" />
+
+You can try out the live version of the project here:  
+👉 **[Flight Fare Prediction Demo](https://sayan-mondal2022-flight-fare-prediction-system-app-evuwqx.streamlit.app/)**  
+
+The web app allows users to:
+- Enter flight details such as **Travel class**, **Totalstops**, **Arrival Time**, **Departure Time** and **Journey day**.  
+- Get an instant **predicted flight fare** based on the trained XGBoost regression model.  
+- Experience an **interactive and user-friendly Streamlit interface** designed for learning and experimentation.
+
+> *Note: This project is deployed purely for educational purposes — predictions are based on sample historical data and not intended for real-world commercial use.*
+
+
+## 📊 Results & Evaluation
+
+The final model was trained using the **XGBoost Regressor**, which produced the following performance metrics on the test dataset:
+
+| Metric | Score |
+|:--------|:------:|
+| **R² Score** | **0.8741** |
+| **Mean Absolute Error (MAE)** | **₹ 4525.58** |
+
+These results indicate that the model explains approximately **87.4% of the variance** in flight fares, with an average prediction error of around **₹4,525** — showing strong predictive performance for this learning-based project.
+
 ## 🛠 Tech Stack
 
 - Language: Python
