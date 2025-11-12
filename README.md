@@ -88,3 +88,19 @@ This project was developed as a **learning exercise** to explore how machine lea
  [`Flight-fare-dataset`](https://www.kaggle.com/datasets/yashdharme36/airfare-ml-predicting-flight-fares)
 - Data columns include: Date_of_Journey, Departure_Time, Arrival_Time, Duration, Stops, Price
 - Source code uses preprocessing script `model_preprocess.py` and training notebook `model.ipynb`.
+
+## 📝 Acknowledgement
+ 
+Special thanks to platforms like **Kaggle**, **Scikit-learn**, and **Streamlit** for providing datasets, tools, and frameworks that made this project possible.  
+
+This project was developed as part of my learning journey in **Machine Learning and Data Science** — every line of code written here contributed to my deeper understanding of real-world model development and deployment.
+
+## 🙏 Thank You
+
+Thank you for visiting this project!  
+This Flight Fare Prediction System was built purely for **learning and experimentation** in machine learning.  
+Your feedback, suggestions, and contributions are always welcome — they help make learning even better! ✨  
+
+If you found this project helpful, don’t forget to ⭐ the repository.
+
+— **Sayan Mondal**
