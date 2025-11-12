@@ -3,3 +3,5 @@
 
 # Flight Dataset folder
 flight_fare_dataset
+
+__pycache__/
