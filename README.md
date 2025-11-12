@@ -1,6 +1,14 @@
-# Flight Fare Prediction System:
+# Flight Fare Prediction System
 
-A learning-focused project to understand and build a flight fare prediction system. This serves as a practical application of machine learning concepts on a complex, real-world problem.
+A machine-learning system to predict flight ticket prices using historical data — helping travellers find the best deals.
 
+## 🚀 Project Overview
 
-- [`FLight_fare_dataset`](https://www.kaggle.com/datasets/yashdharme36/airfare-ml-predicting-flight-fares)
+**What is it?**  
+This project analyses historical flight price data and builds a predictive model to estimate ticket fares given input features like date, route, airline, stops, and more.
+
+**Why build it?**  
+- Travellers want to know *when* to buy tickets for the best price.  
+- Airlines and travel-agencies can use predictions to adjust strategies.  
+- It's a real-world application of supervised machine learning with structured data.
+
